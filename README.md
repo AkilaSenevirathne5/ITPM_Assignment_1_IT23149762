@@ -7,5 +7,5 @@ Automation testing for the SwiftTranslator (Singlish to Sinhala) application usi
 1. Clone the repository.
 2. Run the following command to install dependencies:
    ```bash
-  npm install
+   npm install
   
